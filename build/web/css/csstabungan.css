@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 14, 2018, 12:59:07 PM
+    Author     : Amel
+*/
+.logo {
+  width: 75px;
+  float: left;
+  margin-right: 15px;
+}
+
+.form-group {
+  max-width: 500px;
+}
+
+.actions {
+  padding: 10px 0;
+}
+
+.glyphicon-euro {
+  font-size: 12px;
+}body{background-color:lightgray;}
+table{
+	width:100%;
+}
+td form {
+	margin:0;padding:0;
+}
+td form button.button{
+	padding:0.25em;margin:0.25em;
+	background:none;
+	color:blue;
+}
+td form button.button:hover{
+  background:none;
+	color:steelblue;
+}
